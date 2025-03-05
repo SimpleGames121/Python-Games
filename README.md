@@ -6,3 +6,5 @@ Simple games made with python
 2.Simple minecraft clone made with python and ursina
 
 3.Basic calculator made with python and tkinter
+
+4.Web browser made with python and PyQt5
