@@ -28,7 +28,7 @@ for i in range(width):
 
 def Quit():
   print('ESC')
-  sys.exit()
+  exit()
 
 def input(key):
   global buildingblock
